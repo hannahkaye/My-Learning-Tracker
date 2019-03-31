@@ -55,9 +55,9 @@ A progress tracker for my at-home slippercamp (like a bootcamp but a million % l
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
 | ![Completed][Completed]     | March 2019 | [History of the Internet: Bento Web Fundamentals]             | [Flavio Copes]                              |
-| ![Completed][Completed]     | Jan 2019 | [What is the Internet Really: Bento Web Fundamentals]           | [Ryan McDermott]                            |
-| ![Completed][Completed]     | Aug 2018 | [Front-End Web Developer Nanodegree]                            | [Udacity] - Google Scholarship              |
-| ![Completed][Completed]     | Feb 2018 | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
+|     | Jan 2019 | [What is the Internet Really: Bento Web Fundamentals]           | [Ryan McDermott]                            |
+|     | Aug 2018 | [How does the Internet Work: Bento Web Fundamentals]             | [Udacity] - Google Scholarship              |
+|      | Feb 2018 | [How DNS Works: Bento Web Fundamentals]                               | [Kent C Dodds] - [egghead.io]               |
 | ![Completed][Completed]     | Jan 2018 | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
 | ![Completed][Completed]     | 2017     | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
 | ![Completed][Completed]     | 2017     | [Learning Git and GitHub]                                       | [Ray Villalobos] - [Lynda.com]              |
@@ -78,8 +78,8 @@ A progress tracker for my at-home slippercamp (like a bootcamp but a million % l
 
 [History of the Internet: Bento Web Fundamentals]: https://www.youtube.com/watch?v=9hIQjrMHTv4
 [What is the Internet Really: Bento Web Fundamentals]: https://www.youtube.com/watch?v=XE_FPEFpHt4
-[Front-End Web Developer Nanodegree]: https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
-[JavaScript and React for Developers]: https://www.udemy.com/js-and-react-for-devs/
+[How does the Internet Work: Bento Web Fundamentals]: https://www.youtube.com/watch?v=7_LPdttKXPc
+[How DNS Works: Bento Web Fundamentals]: https://www.youtube.com/watch?v=72snZctFFtA
 [You Don't know JavaScript]: https://github.com/getify/You-Dont-Know-JS
 [Workflow Tools for Web Developers]: https://www.lynda.com/Web-Design-tutorials/Workflow-Tools-Web-Development/533305-2.html
 [Learning Git and GitHub]: https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html
