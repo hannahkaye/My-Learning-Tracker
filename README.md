@@ -1,6 +1,6 @@
-# My Learning Tracker [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Web%20Dev%20learning%20tracker%20&url=https://github.com/Syknapse/My-Learning-Tracker&via=syknapse&hashtags=100DaysofCode)
+# My Learning Tracker
 
-A complete log of my attempt to get better at this programming thing.  
+A progress tracker for my at-home slippercamp (like a bootcamp but a million % less intense because I already have a stressful job.  
 
 
 ----
@@ -54,7 +54,7 @@ A complete log of my attempt to get better at this programming thing.
 
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed]     | Feb 2019 | [The Complete JavaScript Handbook]                              | [Flavio Copes]                              |
+| ![Completed][Completed]     | Feb 2019 | [The Complete JavaScript HANDBOOB]                              | [Flavio Copes]                              |
 | ![Completed][Completed]     | Jan 2019 | [JavaScript clean code guide]                                   | [Ryan McDermott]                            |
 | ![Completed][Completed]     | Aug 2018 | [Front-End Web Developer Nanodegree]                            | [Udacity] - Google Scholarship              |
 | ![Completed][Completed]     | Feb 2018 | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
