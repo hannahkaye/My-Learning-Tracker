@@ -54,7 +54,7 @@ A progress tracker for my at-home slippercamp (like a bootcamp but a million % l
 
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed]     | Feb 2019 | [The Complete JavaScript Handbook]                              | [Flavio Copes]                              |
+| ![Completed][Completed]     | March 2019 | [History of the Internet: Bento Web Fundamentals]             | [Flavio Copes]                              |
 | ![Completed][Completed]     | Jan 2019 | [JavaScript clean code guide]                                   | [Ryan McDermott]                            |
 | ![Completed][Completed]     | Aug 2018 | [Front-End Web Developer Nanodegree]                            | [Udacity] - Google Scholarship              |
 | ![Completed][Completed]     | Feb 2018 | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
@@ -76,7 +76,7 @@ A progress tracker for my at-home slippercamp (like a bootcamp but a million % l
 
 [//]: # (Reference links to courses)
 
-[The Complete JavaScript Handbook]: https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c
+[History of the Internet: Bento Web Fundamentals]: https://www.youtube.com/watch?v=9hIQjrMHTv4
 [JavaScript clean code guide]: https://github.com/ryanmcdermott/clean-code-javascript
 [Front-End Web Developer Nanodegree]: https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
 [JavaScript and React for Developers]: https://www.udemy.com/js-and-react-for-devs/
