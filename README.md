@@ -11,7 +11,7 @@ A complete log of my attempt to get better at this programming thing.
 
 |               Skill              | 1<br>Introduction | 2<br>Basics   | 3<br>Good     | 4<br>Pretty Good | 5<br>Confident | 6<br>Awesome    |
 |:-------------------------------- |:-----------------:|:-------------:|:-------------:|:----------------:|:--------------:|:---------------:|
-|**HTML5**                         |     |  |  |     |  |                 |
+|**HTML5**                         |  ![done][done]    |  |  |     |  |                 |
 |**CSS3**                          |     |  |  |    |   |                 |
 |**JavaScript**                    |     |  |  |                  |                |                 |
 |**ES6**                           |     |  |  |                  |                |                 |
@@ -21,16 +21,16 @@ A complete log of my attempt to get better at this programming thing.
 |**Git**                           |     |  |  |    |                |                 |
 |**Git bash**                      |     |  |  |                  |                |                 |
 |**GitHub**                        |     |  |  |     |                |                 |
-|**Bitbucket**                     | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Gulp/Webpack**                  | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Agile**                         | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Stylus**                        | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Working with APIs**             | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**jQuery**                        | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Css Grid & Flex-box**           | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Responsive design**             | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Mobile first**                  | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Progressive Enhancement**       | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
+|**Bitbucket**                     |     |  | |    |                |                 |
+|**Gulp/Webpack**                  |      | |               |                  |                |                 |
+|**Agile**                         |     |  | |                  |                |                 |
+|**Stylus**                        |    |  | |                  |                |                 |
+|**Working with APIs**             |    |  |  |                  |                |                 |
+|**jQuery**                        |      |  |  |     |                |                 |
+|**Css Grid & Flex-box**           |     |  |  |    |                |                 |
+|**Responsive design**             |     | | |     |                |                 |
+|**Mobile first**                  |     |  |  |     |                |                 |
+|**Progressive Enhancement**       |    |  ||   |                |                 |
 |**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
 |**Website Building**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
 |**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
