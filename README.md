@@ -52,27 +52,27 @@ A progress tracker for my at-home slippercamp (like a bootcamp but a million % l
 [In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
 [Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
 
-|            Status           |   Year   | Course                                                          |                Tutor                        |
+|            Status           |   Year   | Course                                                          ||
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed]     | March 2019 | [History of the Internet: Bento Web Fundamentals]             | [Flavio Copes]                              |
-|     | Jan 2019 | [What is the Internet Really: Bento Web Fundamentals]           | [Ryan McDermott]                            |
-|     | Aug 2018 | [How does the Internet Work: Bento Web Fundamentals]             | [Udacity] - Google Scholarship              |
-|      | Feb 2018 | [How DNS Works: Bento Web Fundamentals]                               | [Kent C Dodds] - [egghead.io]               |
-| ![Completed][Completed]     | Jan 2018 | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
-| ![Completed][Completed]     | 2017     | [Workflow Tools for Web Developers]                             | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [Learning Git and GitHub]                                       | [Ray Villalobos] - [Lynda.com]              |
-| ![Completed][Completed]     | 2017     | [CSS Essential Training 3]                                      | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [CSS Essential Training 2]                                      | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [Getting Your Website Online]                                   | [Christina Truong] - [Lynda.com]            |
-| ![Completed][Completed]     | 2017     | [Learn Enough Command Line to Be Dangerous]                     | [Michael Hartl]                             |
-| ![Completed][Completed]     | 2017     | [Basic Front End Development Projects]                          | [Free Code Camp]                            |
-| ![Completed][Completed]     | 2017     | [The Web Developer Bootcamp - Frond End]                        | Colt Steele - [Udemy]                       |
-| ![In Progress][In Progress] |          | Read [Eloquent JavaScript]                                      | [Marijn Haverbeke]                          |
-| ![In Progress][In Progress] |          | [JavaScript and React for Developers]                           | [Cassidy Williams] - [Udemy]                |
-| ![In Progress][In Progress] |          | [Front End Development]                                         | [Free Code Camp]                            |
-| ![In Progress][In Progress] |          | [JavaScript30]                                                  | [Wes Bos]                                   |
-| ![Soon][Soon]               |          | Read JavaScript: The Good Parts                                 | Douglas Crockford                           |
-| ![Soon][Soon]               |          | Read [You Don't know JavaScript]                                | Kyle Simpson                                |
+| ![Completed][Completed]     | March 2019 | [History of the Internet: Bento Web Fundamentals]             | 
+|     | Jan 2019 | [What is the Internet Really: Bento Web Fundamentals]           
+|     | Aug 2018 | [How does the Internet Work: Bento Web Fundamentals]             | 
+|      | Feb 2018 | [How DNS Works: Bento Web Fundamentals]                               |              |
+| ![Completed][Completed]     | Jan 2018 | [Google Developer Challenge Scholarship] - Web Developer        |                                 |
+| ![Completed][Completed]     | 2017     | [Workflow Tools for Web Developers]                             | |
+| ![Completed][Completed]     | 2017     | [Learning Git and GitHub]                                       |             |
+| ![Completed][Completed]     | 2017     | [CSS Essential Training 3]                                      |              |
+| ![Completed][Completed]     | 2017     | [CSS Essential Training 2]                                      |            |
+| ![Completed][Completed]     | 2017     | [Getting Your Website Online]                                   |            |
+| ![Completed][Completed]     | 2017     | [Learn Enough Command Line to Be Dangerous]                     |                              |
+| ![Completed][Completed]     | 2017     | [Basic Front End Development Projects]                          |                          |
+| ![Completed][Completed]     | 2017     | [The Web Developer Bootcamp - Frond End]                        |                        |
+| ![In Progress][In Progress] |          | Read [Eloquent JavaScript]                                      |                         |
+| ![In Progress][In Progress] |          | [JavaScript and React for Developers]                           |               |
+| ![In Progress][In Progress] |          | [Front End Development]                                         |                            |
+| ![In Progress][In Progress] |          | [JavaScript30]                                                  |                                    |
+| ![Soon][Soon]               |          | Read JavaScript: The Good Parts                                 |                           |
+| ![Soon][Soon]               |          | Read [You Don't know JavaScript]                                |                                 |
 
 [//]: # (Reference links to courses)
 
