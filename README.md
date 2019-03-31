@@ -1,6 +1,6 @@
 # My Learning Tracker
 
-A progress tracker for my at-home slippercamp (like a bootcamp but a million % less intense because I already have a stressful job.  
+A progress tracker for my at-home slippercamp (like a bootcamp but a million % less intense because I already have a stressful job.)  
 
 
 ----
