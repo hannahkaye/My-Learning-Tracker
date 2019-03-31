@@ -160,9 +160,8 @@ And here is a chronological log of the highlights of my learning:
 
 I'm currently interested in/excited about:
 
-+ React
-+ JavaScript best practice
-+ Object Oriented Programming
++ Not feeling overwhelmed on Github
++ Picking a progression where I feel like I know what to do
 
 ----
 
@@ -175,17 +174,17 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 
 * [ ] Open the computer’s terminal
 * [ ] Use a text editor (bonus points if you have a specific reason for choosing it)
-* [] Use some keyboard shortcuts
-* [] Write tests for your code
-* [] Help another web developer with something they’re having trouble with
-* [] Attend an event about web development
-* [] Follow developers you admire on social media
+* [ ] Use some keyboard shortcuts
+* [ ] Write tests for your code
+* [ ] Help another web developer with something they’re having trouble with
+* [ ] Attend an event about web development
+* [ ] Follow developers you admire on social media
 * [ ] Read a book about coding
-* [] Open your browser console
-* [] Get data from an API
+* [ ] Open your browser console
+* [ ] Get data from an API
 * [ ] Hide API keys from the public
-* [] Post a question on Stack Overflow
-* [] Push code to GitHub or GitLab or BitBucket
+* [ ] Post a question on Stack Overflow
+* [ ] Push code to GitHub or GitLab or BitBucket
 * [ ] Speak about something web development-related at an event
 * [ ] Complete a technical interview
 * [ ] Participate in a hackathon
