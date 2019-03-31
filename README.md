@@ -173,8 +173,8 @@ This is a list of basic objectives to meet on the road to mastering web developm
 It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Things Real Developers Do: My Bucket List"](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155)
 
 
-* [] Open the computer’s terminal
-* [x] Use a text editor (bonus points if you have a specific reason for choosing it)
+* [ ] Open the computer’s terminal
+* [ ] Use a text editor (bonus points if you have a specific reason for choosing it)
 * [] Use some keyboard shortcuts
 * [] Write tests for your code
 * [] Help another web developer with something they’re having trouble with
@@ -187,13 +187,13 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 * [] Post a question on Stack Overflow
 * [] Push code to GitHub or GitLab or BitBucket
 * [ ] Speak about something web development-related at an event
-* [] Complete a technical interview
+* [ ] Complete a technical interview
 * [ ] Participate in a hackathon
-* [X] Deploy a game to heroku
+* [ ] Deploy a game to heroku
 * [ ] Ship your project to a store
 * [ ] Contribute to open source
-* [] Get paid to code
-* [] When people ask what you do, respond saying you’re a developer :)
+* [ ] Get paid to code
+* [ ] When people ask what you do, respond saying you’re a developer :)
 
 ----
 
