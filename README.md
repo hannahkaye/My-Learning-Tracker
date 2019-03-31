@@ -55,7 +55,7 @@ A progress tracker for my at-home slippercamp (like a bootcamp but a million % l
 |            Status           |   Year   | Course                                                          |                Tutor                        |
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
 | ![Completed][Completed]     | March 2019 | [History of the Internet: Bento Web Fundamentals]             | [Flavio Copes]                              |
-| ![Completed][Completed]     | Jan 2019 | [JavaScript clean code guide]                                   | [Ryan McDermott]                            |
+| ![Completed][Completed]     | Jan 2019 | [What is the Internet Really: Bento Web Fundamentals]           | [Ryan McDermott]                            |
 | ![Completed][Completed]     | Aug 2018 | [Front-End Web Developer Nanodegree]                            | [Udacity] - Google Scholarship              |
 | ![Completed][Completed]     | Feb 2018 | [The Beginner's Guide to Reactjs]                               | [Kent C Dodds] - [egghead.io]               |
 | ![Completed][Completed]     | Jan 2018 | [Google Developer Challenge Scholarship] - Web Developer        | [Udacity]                                   |
@@ -77,7 +77,7 @@ A progress tracker for my at-home slippercamp (like a bootcamp but a million % l
 [//]: # (Reference links to courses)
 
 [History of the Internet: Bento Web Fundamentals]: https://www.youtube.com/watch?v=9hIQjrMHTv4
-[JavaScript clean code guide]: https://github.com/ryanmcdermott/clean-code-javascript
+[What is the Internet Really: Bento Web Fundamentals]: https://www.youtube.com/watch?v=XE_FPEFpHt4
 [Front-End Web Developer Nanodegree]: https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001
 [JavaScript and React for Developers]: https://www.udemy.com/js-and-react-for-devs/
 [You Don't know JavaScript]: https://github.com/getify/You-Dont-Know-JS
