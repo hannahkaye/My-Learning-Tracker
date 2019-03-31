@@ -31,16 +31,16 @@ A complete log of my attempt to get better at this programming thing.
 |**Responsive design**             |     | | |     |                |                 |
 |**Mobile first**                  |     |  |  |     |                |                 |
 |**Progressive Enhancement**       |    |  ||   |                |                 |
-|**Markdown**                      | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    | ![done][done]  |                 |
-|**Website Building**              | ![done][done]     | ![done][done] | ![done][done] | ![done][done]    |                |                 |
-|**Publishing website**            | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Bootstrap**                     | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Command line**                  | ![done][done]     | ![done][done] | ![done][done] |                  |                |                 |
-|**Node.js**                       | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**NPM**                           | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Open Source Contribution**      | ![done][done]     | ![done][done] |               |                  |                |                 |
-|**Angular 4**                     | ![done][done]     |               |               |                  |                |                 |
-|**NPM scripts**                   | ![done][done]     |               |               |                  |                |          .      |
+|**Markdown**                      |    |  |  |    |   |                 |
+|**Website Building**              |     |  |  |    |                |                 |
+|**Publishing website**            |     |  |  |                  |                |                 |
+|**Bootstrap**                     |      |  |  |                  |                |                 |
+|**Command line**                  |      |  |  |                  |                |                 |
+|**Node.js**                       |     |  |               |                  |                |                 |
+|**NPM**                           | |  |               |                  |                |                 |
+|**Open Source Contribution**      |     | |               |                  |                |                 |
+|**Angular 4**                     |     |               |               |                  |                |                 |
+|**NPM scripts**                   |      |               |               |                  |                |          .      |
 
 ----
 
@@ -173,39 +173,37 @@ This is a list of basic objectives to meet on the road to mastering web developm
 It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Things Real Developers Do: My Bucket List"](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155)
 
 
-* [x] Open the computer’s terminal
+* [] Open the computer’s terminal
 * [x] Use a text editor (bonus points if you have a specific reason for choosing it)
-* [x] Use some keyboard shortcuts
-* [x] Write tests for your code
-* [x] Help another web developer with something they’re having trouble with
-* [x] Attend an event about web development
-* [x] Follow developers you admire on social media
+* [] Use some keyboard shortcuts
+* [] Write tests for your code
+* [] Help another web developer with something they’re having trouble with
+* [] Attend an event about web development
+* [] Follow developers you admire on social media
 * [ ] Read a book about coding
-* [x] Open your browser console
-* [x] Get data from an API
+* [] Open your browser console
+* [] Get data from an API
 * [ ] Hide API keys from the public
-* [x] Post a question on Stack Overflow
-* [x] Push code to GitHub or GitLab or BitBucket
+* [] Post a question on Stack Overflow
+* [] Push code to GitHub or GitLab or BitBucket
 * [ ] Speak about something web development-related at an event
-* [x] Complete a technical interview
+* [] Complete a technical interview
 * [ ] Participate in a hackathon
-* [x] Deploy a project
+* [X] Deploy a game to heroku
 * [ ] Ship your project to a store
 * [ ] Contribute to open source
-* [x] Get paid to code
-* [x] When people ask what you do, respond saying you’re a developer :)
+* [] Get paid to code
+* [] When people ask what you do, respond saying you’re a developer :)
 
 ----
 
-If you find this useful for your own needs you are welcome to fork a copy, customise it or even give it a star.
 
-**You can [follow me on Twitter](https://twitter.com/Syknapse "@Syknapse") or [get in touch](https://syknapse.github.io/Syk-Houdeib/#contact "My contact section | Portfolio")**
 
 ----
 
 ### Acknowledgments
 
-This has been partly inspired by [Shovan Chatterjee](https://twitter.com/shovan_ch) and his wonderful [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path) project. And of course by [Alexander Kallaway's](https://twitter.com/ka11away) very motivational [#100DaysOfCode challenge](https://github.com/Kallaway/100-days-of-code) and the great and supportive community around it.
+I 100% stole this from someone else.  I guess if it's public on Github it's kind of open source so I am not stealing, but rather I am being efficient.  
 
 ### License
 
