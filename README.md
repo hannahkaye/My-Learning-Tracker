@@ -63,8 +63,8 @@ A progress tracker for my at-home slippercamp (like a bootcamp but a million % l
 ## Online Courses
 |            Status            |   Year   | Course                                                          ||
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-|    | March 2019 | [History of the Internet: Bento Web Fundamentals]             | 
-|     | Jan 2019 | [What is the Internet Really: Bento Web Fundamentals]           
+|    | March 2019 | [Codecademy HTML]| 
+|     | March 2019 | [FreeCodeCamp]           
 |     | Aug 2018 | [How does the Internet Work: Bento Web Fundamentals]             | 
 |      | Feb 2018 | [How DNS Works: Bento Web Fundamentals]                               |              |
 
@@ -76,23 +76,7 @@ A progress tracker for my at-home slippercamp (like a bootcamp but a million % l
 [What is the Internet Really: Bento Web Fundamentals]: https://www.youtube.com/watch?v=XE_FPEFpHt4
 [How does the Internet Work: Bento Web Fundamentals]: https://www.youtube.com/watch?v=7_LPdttKXPc
 [How DNS Works: Bento Web Fundamentals]: https://www.youtube.com/watch?v=72snZctFFtA
-[You Don't know JavaScript]: https://github.com/getify/You-Dont-Know-JS
-[Workflow Tools for Web Developers]: https://www.lynda.com/Web-Design-tutorials/Workflow-Tools-Web-Development/533305-2.html
-[Learning Git and GitHub]: https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html
-[CSS Essential Training 3]: https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-3/609030-2.html
-[CSS Essential Training 2]: https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-2/569189-2.html
-[Getting Your Website Online]: https://www.lynda.com/Web-Development-tutorials/Getting-Your-Website-Online/609031-2.html
-[Learn Enough Command Line to Be Dangerous]: https://www.learnenough.com/command-line-tutorial
-[Basic Front End Development Projects]: https://www.freecodecamp.org/syknapse
-[The Web Developer Bootcamp - Frond End]: https://www.udemy.com/the-web-developer-bootcamp
-[The Web Developer Bootcamp - Back End]: https://www.udemy.com/the-web-developer-bootcamp
-[Front End Development]: https://www.freecodecamp.org/syknapse
-[Google Developer Challenge Scholarship]: https://www.udacity.com/google-scholarships
-[JavaScript30]: https://javascript30.com/
-[JavaScript & jQuery]: http://javascriptbook.com/
-[Eloquent JavaScript]: http://eloquentjavascript.net/
-[Learn CSS Grid]: https://scrimba.com/g/gR8PTE
-[The Beginner's Guide to Reactjs]: https://egghead.io/courses/the-beginner-s-guide-to-reactjs
+[FreeCodeCamp]: www.freecodecamp.org
 
 
 ### Paths
