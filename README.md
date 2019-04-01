@@ -58,21 +58,7 @@ A progress tracker for my at-home slippercamp (like a bootcamp but a million % l
 |     | Jan 2019 | [What is the Internet Really: Bento Web Fundamentals]           
 |     | Aug 2018 | [How does the Internet Work: Bento Web Fundamentals]             | 
 |      | Feb 2018 | [How DNS Works: Bento Web Fundamentals]                               |              |
-| ![Completed][Completed]     | Jan 2018 | [Google Developer Challenge Scholarship] - Web Developer        |                                 |
-| ![Completed][Completed]     | 2017     | [Workflow Tools for Web Developers]                             | |
-| ![Completed][Completed]     | 2017     | [Learning Git and GitHub]                                       |             |
-| ![Completed][Completed]     | 2017     | [CSS Essential Training 3]                                      |              |
-| ![Completed][Completed]     | 2017     | [CSS Essential Training 2]                                      |            |
-| ![Completed][Completed]     | 2017     | [Getting Your Website Online]                                   |            |
-| ![Completed][Completed]     | 2017     | [Learn Enough Command Line to Be Dangerous]                     |                              |
-| ![Completed][Completed]     | 2017     | [Basic Front End Development Projects]                          |                          |
-| ![Completed][Completed]     | 2017     | [The Web Developer Bootcamp - Frond End]                        |                        |
-| ![In Progress][In Progress] |          | Read [Eloquent JavaScript]                                      |                         |
-| ![In Progress][In Progress] |          | [JavaScript and React for Developers]                           |               |
-| ![In Progress][In Progress] |          | [Front End Development]                                         |                            |
-| ![In Progress][In Progress] |          | [JavaScript30]                                                  |                                    |
-| ![Soon][Soon]               |          | Read JavaScript: The Good Parts                                 |                           |
-| ![Soon][Soon]               |          | Read [You Don't know JavaScript]                                |                                 |
+
 
 ## Online Courses
 |            Status            |   Year   | Course                                                          ||
@@ -108,24 +94,6 @@ A progress tracker for my at-home slippercamp (like a bootcamp but a million % l
 [Learn CSS Grid]: https://scrimba.com/g/gR8PTE
 [The Beginner's Guide to Reactjs]: https://egghead.io/courses/the-beginner-s-guide-to-reactjs
 
-[//]: # (Reference links to tutors)
-
-[Flavio Copes]: https://twitter.com/flaviocopes
-[Ryan McDermott]: https://github.com/ryanmcdermott
-[Cassidy Williams]: https://twitter.com/cassidoo
-[Christina Truong]: https://twitter.com/christinatruong
-[Lynda.com]: https://www.lynda.com
-[Ray Villalobos]: https://twitter.com/planetoftheweb
-[Michael Hartl]: https://twitter.com/mhartl
-[Free Code Camp]: https://www.freecodecamp.org
-[Udemy]: https://www.udemy.com
-[Udacity]: https://www.udacity.com
-[Wes Bos]: https://twitter.com/wesbos
-[Marijn Haverbeke]: https://twitter.com/MarijnJH
-[Per Harald Borgen]: https://twitter.com/perborgen
-[Scrimba]: https://scrimba.com/
-[Kent C Dodds]: https://egghead.io/instructors/kentcdodds
-[egghead.io]: https://egghead.io/
 
 ### Paths
 
@@ -154,55 +122,44 @@ A progress tracker for my at-home slippercamp (like a bootcamp but a million % l
 
 ----
 
-## Highlights
-
-The most interesting of what I'm watching, reading, and doing:
-
-[**Click here for playlists and tweets. Articles, talks, tutorials, and more**](https://syknapse.github.io/My-Learning-Tracker/)
-
-And here is a chronological log of the highlights of my learning:
-
-[**My Learning Log**](https://github.com/Syknapse/My-Learning-Tracker/blob/master/log.md)
-
-----
-
 ## Interests
 
 I'm currently interested in/excited about:
 
 + Not feeling overwhelmed on Github
-+ Picking a progression where I feel like I know what to do
++ Hyping FreeCodeCamp
++ Figuring out the best path to put up my 3 website ideas
 
 ----
 
-## Web Development Checklist
+## Feeling Like a "Real Programmer"
 
-This is a list of basic objectives to meet on the road to mastering web development.
+What is a real programmer anyways?  Is it someone who derives a paycheck from their work? Is it someone who contributes?  Is it someone like me who goes on Codecademy every day for two weeks and then not again for a year?  I think it can be all of the above.  
 
-It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Things Real Developers Do: My Bucket List"](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155)
+I've taken this from the original author of this learning tracker, who took it from [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Things Real Developers Do: My Bucket List"](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155).  I'm adding my own stuff though based on my own personal goals.    
 
 
 * [ ] Open the computer’s terminal
-* [ ] Use a text editor (bonus points if you have a specific reason for choosing it)
-* [ ] Use some keyboard shortcuts
-* [ ] Write tests for your code
-* [ ] Help another web developer with something they’re having trouble with
-* [ ] Attend an event about web development
-* [ ] Follow developers you admire on social media
+* [ ] Understand Github
+* [ ] Make a personal portfolio website
+* [ ] Go to a CodeforGSO hackathon and actually contribute in a meaningful way on programming side not community side
+* [ ] Understand 9/10 random XKCD comics
+* [ ] Make a game in JS
+* [ ] Deploy an app to heroku
 * [ ] Read a book about coding
-* [ ] Open your browser console
+* [ ] Learn at least one Javascript library and incorporate it into a project
 * [ ] Get data from an API
 * [ ] Hide API keys from the public
 * [ ] Post a question on Stack Overflow
-* [ ] Push code to GitHub or GitLab or BitBucket
-* [ ] Speak about something web development-related at an event
+* [ ] Push code to GitHub or GitLab or BitBucket or Codepen
+* [ ] Complete the entire Python path for Codecademy
 * [ ] Complete a technical interview
-* [ ] Participate in a hackathon
-* [ ] Deploy a game to heroku
-* [ ] Ship your project to a store
-* [ ] Contribute to open source
-* [ ] Get paid to code
-* [ ] When people ask what you do, respond saying you’re a developer :)
+* [ ] Pay for a subscription to an online learning resource (ie Lynda, TeamTreehouse, Codecademy Pro) and make good use of it.
+* [ ] Contribute to an open source project
+* [ ] Create a Skyrim mod and add a therapist to Skyrim
+* [ ] Derive income from coding
+* [ ] Create a web app that could assist therapists in one area of practice
+* [ ] Have other people like my code so much they fork it!
 
 ----
 
@@ -212,7 +169,7 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 
 ### Acknowledgments
 
-I 100% stole this from someone else.  I guess if it's public on Github it's kind of open source so I am not stealing, but rather I am being efficient.  
+I 100% stole this from someone else.  I guess if it's public on Github it's kind of open source so I am not stealing, but I'm actually being efficient, kind of like asking for help on StackOverflow is not cheating.  
 
 ### License
 
