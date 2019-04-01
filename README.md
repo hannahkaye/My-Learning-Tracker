@@ -52,7 +52,7 @@ A progress tracker for my at-home slippercamp (like a bootcamp but a million % l
 [In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
 [Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
 
-|            Status           |   Year   | Course                                                          ||
+|            Status            |   Year   | Course                                                          ||
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
 | ![Completed][Completed]     | March 2019 | [History of the Internet: Bento Web Fundamentals]             | 
 |     | Jan 2019 | [What is the Internet Really: Bento Web Fundamentals]           
