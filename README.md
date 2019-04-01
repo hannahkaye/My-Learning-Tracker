@@ -44,7 +44,7 @@ A progress tracker for my at-home slippercamp (like a bootcamp but a million % l
 
 ----
 
-## Learning
+## VIDEOS
 
 [//]: # (Status images)
 
@@ -52,7 +52,7 @@ A progress tracker for my at-home slippercamp (like a bootcamp but a million % l
 [In Progress]: https://user-images.githubusercontent.com/29199184/34462881-7305ddac-ee4d-11e7-9b57-589424820da4.png "In Progress"
 [Soon]: https://user-images.githubusercontent.com/29199184/34462916-d5c37bd4-ee4d-11e7-9f4a-d57f2243281b.png "Soon"
 
-|            Status            |   Year   | Course                                                          ||
+|            Status            |   Year   | Video                                                          ||
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
 | ![Completed][Completed]     | March 2019 | [History of the Internet: Bento Web Fundamentals]             | 
 |     | Jan 2019 | [What is the Internet Really: Bento Web Fundamentals]           
@@ -74,8 +74,18 @@ A progress tracker for my at-home slippercamp (like a bootcamp but a million % l
 | ![Soon][Soon]               |          | Read JavaScript: The Good Parts                                 |                           |
 | ![Soon][Soon]               |          | Read [You Don't know JavaScript]                                |                                 |
 
+## Online Courses
+|            Status            |   Year   | Course                                                          ||
+|:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
+|    | March 2019 | [History of the Internet: Bento Web Fundamentals]             | 
+|     | Jan 2019 | [What is the Internet Really: Bento Web Fundamentals]           
+|     | Aug 2018 | [How does the Internet Work: Bento Web Fundamentals]             | 
+|      | Feb 2018 | [How DNS Works: Bento Web Fundamentals]                               |              |
+
+
 [//]: # (Reference links to courses)
 
+[Codecademy HTML]: https://www.codecademy.com/courses/learn-html/lessons/intro-to-html?action=resume_content_item
 [History of the Internet: Bento Web Fundamentals]: https://www.youtube.com/watch?v=9hIQjrMHTv4
 [What is the Internet Really: Bento Web Fundamentals]: https://www.youtube.com/watch?v=XE_FPEFpHt4
 [How does the Internet Work: Bento Web Fundamentals]: https://www.youtube.com/watch?v=7_LPdttKXPc
