@@ -54,9 +54,9 @@ A progress tracker for my at-home slippercamp (like a bootcamp but a million % l
 
 |            Status            |   Year   | Video                                                          ||
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
-| ![Completed][Completed]     | March 2019 | [History of the Internet: Bento Web Fundamentals]             | 
-|![Completed][Completed]      | Jan 2019 | [What is the Internet Really: Bento Web Fundamentals]           
-|     | Aug 2018 | [How does the Internet Work: Bento Web Fundamentals]             | 
+| ![Completed][Completed]     | 28 Mar 2019 | [History of the Internet: Bento Web Fundamentals]             | 
+|![Completed][Completed]      | 1 Apr 2019 | [What is the Internet Really: Bento Web Fundamentals]           
+|![Completed][Completed]      | 2 Apr 2019 | [How does the Internet Work: Bento Web Fundamentals]             | 
 |      | Feb 2018 | [How DNS Works: Bento Web Fundamentals]                               |              |
 
 
