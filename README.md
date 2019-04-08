@@ -57,7 +57,7 @@ A progress tracker for my at-home slippercamp (like a bootcamp but a million % l
 | ![Completed][Completed]     | 28 Mar 2019 | [History of the Internet: Bento Web Fundamentals]             | 
 |![Completed][Completed]      | 1 Apr 2019 | [What is the Internet Really: Bento Web Fundamentals]           
 |![Completed][Completed]      | 2 Apr 2019 | [How does the Internet Work: Bento Web Fundamentals]             | 
-|      | Feb 2018 | [How DNS Works: Bento Web Fundamentals]                               |              |
+|![Completed]      | 5 Apr 2019 | [How DNS Works: Bento Web Fundamentals]                               |              |
 
 
 ## Online Courses
@@ -65,8 +65,7 @@ A progress tracker for my at-home slippercamp (like a bootcamp but a million % l
 |:---------------------------:|:---------|:----------------------------------------------------------------|:-------------------------------------------:|
 |    | March 2019 | [Codecademy HTML]| 
 |     | March 2019 | [FreeCodeCamp]           
-|     | Aug 2018 | [How does the Internet Work: Bento Web Fundamentals]             | 
-|      | Feb 2018 | [How DNS Works: Bento Web Fundamentals]                               |              |
+                         
 
 
 [//]: # (Reference links to courses)
