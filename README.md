@@ -121,7 +121,7 @@ What is a real programmer anyways?  Is it someone who derives a paycheck from th
 
 I've taken this from the original author of this learning tracker, who took it from [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Things Real Developers Do: My Bucket List"](https://blog.prototypr.io/wondering-if-youre-a-real-developer-yet-try-making-a-bucket-list-281275482155).  I'm adding my own stuff though based on my own personal goals.    
 
-* [X] Make an account on stack overflow
+* [ ] Make an account on stack overflow
 * [ ] Open the computer’s terminal
 * [ ] Understand Github
 * [ ] Make a personal portfolio website
